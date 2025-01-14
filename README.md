@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <strong>Experienced in Java, Python, JavaScript, Power Automate RPA, Excel, and Git. </strong>
-Senior Finantial Cost Controlling Analyst with a strong background in financial analysis, budgeting, and reporting. 
+  <strong>Experienced in Java, Python, JavaScript. </strong>
+Software Engineer in sophisticated ERP systems that are both scalable and efficient, catering to the dynamic needs of various industries. With a focus on SAP and Totvs, I've streamlined operations by automating and integrating systems, significantly cutting operational costs for our clients.
 
-Skilled in conducting financial analyses for viability project studies and productivity measurements.
-Demonstrated success in optimizing financial processes, identifying errors, resulting in the implementation of new standard procedures and leading to significant cost and time savings. 
-Proven track record in automating reports, enhancing the accuracy and quality of financial analyses. 
+My technical acumen, particularly in Python and JavaScript, has been a cornerstone in developing test automation for web and mobile platforms, enhancing product quality, and accelerating delivery. The collaborative approach within agile frameworks has been crucial in fostering a culture of continuous improvement and efficiency in our workflows.
 
 Systems Analysis and Development (FIAP) student and holds a degree in Business Administration (PUC SP) and Engineering (USJT). Fluent in English (Level CAE Cambridge / CEFR C1).  <br>
 </p>
